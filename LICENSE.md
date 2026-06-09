@@ -1,4 +1,4 @@
-# 
+# Avançado Atom plugins para Mac OS | VIP Atom plugins para PC Windows. Com suporte multilinguagem e análise de código — otimizado para máximo desempenho em cada plataforma.
 
 
 
